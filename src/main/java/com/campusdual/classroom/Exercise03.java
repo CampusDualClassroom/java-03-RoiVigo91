@@ -1,7 +1,5 @@
 package com.campusdual.classroom;
 
-import javax.xml.namespace.QName;
-
 public class Exercise03 {
 
     // Esto es una funcion, ya que devuelve un valor
